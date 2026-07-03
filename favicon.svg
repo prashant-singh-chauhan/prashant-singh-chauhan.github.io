@@ -6,5 +6,5 @@
       <stop offset="100%" stop-color="#06b6d4"/>
     </linearGradient>
   </defs>
-  <text x="18" y="25" font-family="sans-serif" font-size="16" font-weight="900" fill="white" text-anchor="middle">FG</text>
+  <text x="18" y="25" font-family="sans-serif" font-size="15" font-weight="900" fill="white" text-anchor="middle">PC</text>
 </svg>
